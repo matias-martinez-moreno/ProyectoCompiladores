@@ -43,6 +43,18 @@ This project implements algorithms in Python to analyze a given CFG and determin
 -   **`main.py`**: The main execution script that imports the other modules,,
 
 ---
+ ## Input/Output
+ 
+ For the input grammars, you may assume:
+ 
+ - The capital letter ‘S’ is always the initial symbol.
+ - Nonterminals are capital letters.
+ - Terminals are not upper-case letters.
+ - The empty string, ε, is represented by the letter e. Therefore, e is not allowed as terminal symbol of any input
+ grammar.
+ - Every string ends with $. The symbol $ is not allowed as terminal symbol of any input grammar.
+ - All nonterminals produce some string, that is, for every nonterminal A there exists at least one string x such that A ∗ →x
+---
 
 ## How to Run the Project ❓❓❓
 
