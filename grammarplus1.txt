@@ -1,0 +1,6 @@
+5
+E -> TZ
+Z -> +TZ e
+T -> FM
+M -> *FM e
+F -> (E) d
