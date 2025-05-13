@@ -81,4 +81,5 @@ This project implements algorithms in Python to analyze a given CFG and determin
         -   Enter one string per line at the `Parse>` prompt.
         -   An empty line will either let you switch parsers (if applicable) or quit the parsing loop.
         -   The program will output `yes` or `no` for each parsed string.
-
+---
+-it is important to read `problems-theory-implementation.pdf` where you can find the theory that we used of the book, some details about the code implementation and the problems we found during the project and the way we solved it.
